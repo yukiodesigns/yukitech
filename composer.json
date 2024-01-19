@@ -1,0 +1,14 @@
+{
+    "name":"yukiosdesigns/yuki-tech",
+    "description":"Job Listing Application",
+    "authors":[{
+        "name":"Yukio Jayy",
+        "email": "yukiosdesigns@gmail.com"
+    }],
+    "autoload":{
+        "psr-4": {
+            "Framework\\":"Framework/",
+            "App\\":"App/"
+        }
+    }
+}
